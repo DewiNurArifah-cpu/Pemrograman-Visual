@@ -1,0 +1,60 @@
+<html>
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <style>
+         table {
+         width: 100%;
+         border: 1px solid blue;
+         }
+         th, td {
+         text-align: left;
+         padding: 8px;
+         }
+      </style>
+   </head>
+   <body>
+      <h2>CSS Responsive Table</h2>
+      <div style="overflow-x:auto;">
+         <table>
+            <tr>
+                <th>Nama event</th>
+                <th>Date</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+               <td>Beach Trip</td>
+               <td>Minggu, 23 Mei 2023</td>
+               <td>06.00</td>
+            </tr>
+            <!-- <tr>
+               <td>Eva</td>
+               <td>John</td>
+               <td>50</td>
+               <td>50</td>
+               <td>78</td>
+               <td>80</td>
+               <td>60</td>
+               <td>50</td>
+               <td>50</td>
+               <td>52</td>
+               <td>50</td>
+               <td>81</td>
+            </tr>
+            <tr>
+               <td>Nourine</td>
+               <td>Watson</td>
+               <td>63</td>
+               <td>90</td>
+               <td>37</td>
+               <td>65</td>
+               <td>89</td>
+               <td>78</td>
+               <td>47</td>
+               <td>69</td>
+               <td>44</td>
+               <td>98</td>
+            </tr> -->
+         </table>
+      </div>
+   </body>
+</html>
